@@ -2,7 +2,7 @@
 
 Software developer with experience building patient intake, vaccine inventory, and reporting applications for healthcare teams.
 
-Previously **Jr. Software Developer at Kids & Teens Medical Group (October 2024–October 2026)**. **B.S. in Computer Science, University of California, Riverside (2024).**
+Previously **Jr. Software Developer at Kids & Teens Medical Group (November 2024–October 2026)**. **B.S. in Computer Science, University of California, Riverside (2024).**
 
 [LinkedIn](https://www.linkedin.com/in/wstruve/)
 
